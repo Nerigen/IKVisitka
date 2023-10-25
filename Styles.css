@@ -1,0 +1,68 @@
+.title1 {
+    position: top;
+    top: 120px;
+    left: 380px;
+    right: 120px;
+    bottom: 40px;
+
+    width: 480x;
+    height: 50px;
+    margin: 0px;
+    border: 0px solid black;
+    padding: 0px;
+    background: conic-gradient(from 10deg at 95% 90%, transparent 0%, rgba(213, 187, 165, 0.37) 60%, rgba(247, 170, 195, 0.42) 60%, rgba(191, 233, 216, 0.74) 100%) 35% 50%/140% 110%,
+        linear-gradient(55deg, rgba(230, 226, 203, 0.94) 0%, rgb(200, 232, 227) 45%, rgb(204, 248, 241) 45%, transparent 70%, rgba(231, 190, 199, 0.66) 100%),
+        linear-gradient(45deg, rgb(171, 207, 243) 0%, rgb(248, 216, 197) 100%);
+    text-align: center;
+}
+
+.main1 {
+    width: 540px;
+    height: 800px;
+    margin: 0px;
+    margin-top: 30px;
+    border: 1px solid black;
+    padding: 0px;
+    background: conic-gradient(from 10deg at 95% 90%, transparent 0%, rgba(213, 187, 165, 0.37) 60%, rgba(247, 170, 195, 0.42) 60%, rgba(191, 233, 216, 0.74) 100%) 35% 50%/140% 110%,
+        linear-gradient(55deg, rgba(230, 226, 203, 0.94) 0%, rgb(200, 232, 227) 45%, rgb(204, 248, 241) 45%, transparent 70%, rgba(231, 190, 199, 0.66) 100%),
+        linear-gradient(45deg, rgb(171, 207, 243) 0%, rgb(248, 216, 197) 100%);
+}
+
+.feedback {
+    position: top;
+    top: 120px;
+    left: 380px;
+    right: 120px;
+    bottom: 40px;
+
+    width: 520px;
+    height: 390px;
+    margin: 0px;
+    margin-top: 30px;
+    border: 1px solid black;
+    padding: 0px;
+    background: conic-gradient(from 10deg at 95% 90%, transparent 0%, rgba(213, 187, 165, 0.37) 60%, rgba(247, 170, 195, 0.42) 60%, rgba(191, 233, 216, 0.74) 100%) 35% 50%/140% 110%,
+        linear-gradient(55deg, rgba(230, 226, 203, 0.94) 0%, rgb(200, 232, 227) 45%, rgb(204, 248, 241) 45%, transparent 70%, rgba(231, 190, 199, 0.66) 100%),
+        linear-gradient(45deg, rgb(171, 207, 243) 0%, rgb(248, 216, 197) 100%);
+}
+
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: rgba(2, 49, 151, 0.745);
+    background-color: rgba(123, 130, 210, 0.708);
+    background-image: url('pattern.svg');
+}
+
+img {
+    float: right;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+.OD {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.BG {
+    font-family: Arial, Helvetica, sans-serif;
+}
